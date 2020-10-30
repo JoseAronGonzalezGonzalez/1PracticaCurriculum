@@ -761,10 +761,17 @@ button{
 
 	width: 400px;
 	margin-bottom: 0px;
+	border-radius: 5px;
 }
 
 .prueba{
 	position: relative;
+	border-radius: 5px;
+}
+
+
+.ff img{
+	border-radius: 50%;
 }
 
 .dentroimg1{
